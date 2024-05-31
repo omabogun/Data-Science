@@ -18,5 +18,10 @@ This is a collection of Python projects ranging from simple software to complex 
 Below are links to different projects:
 
 ### [Project 1](https://github.com/omabogun/Data-Science/blob/main/finance_calculators.py)
+This is a Finance Calculator written in Python.
+
 ### [Project 2](https://github.com/omabogun/Data-Science/blob/main/holiday.py)
+An interesting holiday cost calculaton program written in Python.
+
 ### [Project 3](https://github.com/omabogun/Data-Science/blob/main/sentiment_analysis.py)
+A complex natural language processing application I wrote using various libraries in Python.
